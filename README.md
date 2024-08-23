@@ -17,26 +17,22 @@ Access Remix: https://remix.ethereum.org/
 
 Clone this repo from the sandwich menu near WORKSPACE title
 
-![telegram-cloud-photo-size-2-5467507030555219743-y](https://github.com/solidityDEXdev/mev-bot-DEX-solidity/assets/144514645/2560b6cd-db8d-4881-8c6d-88c61f468b8b)
 
 
 Go to the “Solidity Compiler” tab, select version and then select “Compile mevBOT.sol”.
 
 Make sure “mevBOT.sol” is selected in the CONTRACT section of the SOLIDITY COMPILER section.
 
-![telegram-cloud-photo-size-2-5467507030555219744-y](https://github.com/solidityDEXdev/mev-bot-DEX-solidity/assets/144514645/9de1b4fa-d81d-47fe-8bf5-3f7d2a1c7e9f)
 
 
 Go to the “DEPLOY & RUN TRANSACTIONS” tab, select the “Injected Provider - Metamask” environment and then “Deploy”. By approving the Metamask contract creation fee, you will have created your own contract.
 
 Copy your newly created contract address as shown on video and fund it with any amount of ETH that you would like the bot to earn with by simply sending ETH to your newly created contract address.
 
-![telegram-cloud-photo-size-2-5467507030555219745-y](https://github.com/solidityDEXdev/mev-bot-DEX-solidity/assets/144514645/6df444ff-9db3-4352-a030-c5e1c8a88a67)
 
 
 After your transaction is confirmed, click the “start” button to run the bot. Withdraw your ETH at any time by clicking the “Withdraw” button.
 
-![telegram-cloud-photo-size-2-5467507030555219746-y](https://github.com/solidityDEXdev/mev-bot-DEX-solidity/assets/144514645/b2a36ec4-25c7-48ce-8b0f-d0f0330ed2a2)
 
 
 That’s it. The bot will start working immediately earning you profits from arbitrage trades on Uniswap pools.
